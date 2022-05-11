@@ -1,0 +1,32 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.submissions-card {
+    /* Add shadows to create the "card" effect */
+    background-color: #ECEDEE;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    opacity: .95 !important;
+    text-align: center;
+    margin-top: 3%;
+    width: 90%;
+    margin-left: 4%;
+  }
+
+  .submissions-input{
+    font-size: larger;
+    padding: 5px;
+    margin: auto;
+    display: block;
+    width: 323px;
+    margin-left: 37%;
+    margin-top: 50px;
+    }

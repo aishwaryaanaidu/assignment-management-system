@@ -1,0 +1,67 @@
+/* .assignmentDescription{
+    text-align: center;
+}
+
+.input-file{
+    text-align: center;
+} */
+
+.Form{
+    margin-left: 40%;
+}
+
+.display-block {
+    display: block;
+}
+
+.assignment-card {
+    /* Add shadows to create the "card" effect */
+    background-color: #ECEDEE;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+    align-items: center;
+    margin-left: 37% !important;
+    margin-top: 11% !important;
+    opacity: .95 !important;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .assignment-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 10px 16px !important;
+    align-items: center;
+  }
+
+  .input{
+    font-size: larger;
+    padding: 5px;
+    margin: auto;
+    display: block;
+
+    }
+
+    .btn{
+        background-color: #258471 !important; 
+        border: 10px;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+
+    .labels{
+        display: block;
+        font-size: 13pt;
+        color: rgb(0, 0, 0);
+        padding: 5px;
+        text-align: center;
+    }
