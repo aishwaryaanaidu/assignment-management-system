@@ -1,6 +1,8 @@
 # Assignment Management System
 
-The aim of the project is to design and develop an application that can help students track, manage, and submit their assignments using a single platform. This application supports two views: the student view and the instructor view. The instructor will be able to post assignments and associated documents. All students taking up that course will be able to view this assignment as a ticket in their respective student view. Students can create up to 5 columns (To-do, In-progress, blocked, done urgent) to track and manage their assignments.
+The aim of the project is to design and develop an application that can help students track, manage, and submit their assignments using a single platform. This application supports two views: the student view and the instructor view. The instructor will be able to post assignments and associated documents. All students taking up that course will be able to view this assignment as a ticket in their respective student view. Students can create up to 5 columns (To-do, In-progress, blocked, done urgent) to track and manage their assignments. 
+
+This is a PERN (Postgres, Express, React, Node) stack application.
 
 Login Screen
 
